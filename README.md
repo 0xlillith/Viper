@@ -1,6 +1,6 @@
 # Viper
 Build blog of Viper MK1, my own take on a cyberdeck
-![til]([https://tenor.com/view/blog-himym-how-i-met-your-mother-barney-journal-gif-5546539](https://github.com/0xlillith/Viper/blob/main/img/0-blog-barney.gif)
+![til](https://github.com/0xlillith/Viper/blob/main/img/0-blog-barney.gif)
 
 # General idea
 Some characteristics:
