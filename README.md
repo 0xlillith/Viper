@@ -36,4 +36,8 @@ The third prototype was the first one to actually click! Also, ejecitng the swit
 
 ![Model](https://github.com/0xlillith/Viper/blob/main/img/4.jpg)
 
+Parametrization makes turning an individual socket into a mostly finished plate a breeze.
 
+![Model](https://github.com/0xlillith/Viper/blob/main/img/5.png)
+
+Pending thing is modifiying this to fit some (yet to be found) compatible Mill-Max sockets to where the copper legs are.
