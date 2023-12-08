@@ -40,4 +40,9 @@ Parametrization makes turning an individual socket into a mostly finished plate 
 
 ![Model](https://github.com/0xlillith/Viper/blob/main/img/5.png)
 
+Fits very well!
+
+![Model](https://github.com/0xlillith/Viper/blob/main/img/6.jpg)
+
+
 Pending thing is modifiying this to fit some (yet to be found) compatible Mill-Max sockets to where the copper legs are.
