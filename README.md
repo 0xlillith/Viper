@@ -28,12 +28,12 @@ Also made some holes so the keycap's clip can actually... clip. And extruded it 
 
 I've made some of the measurements bigger to factor in printing tolerances. Some quick prototyping really helps in this.
 
-![Model](https://github.com/0xlillith/Viper/blob/main/img/3.png)
+![Model](https://github.com/0xlillith/Viper/blob/main/img/3.jpg)
 
 I'm really surprised of the precision this thing can print with. I'm using a Bambulab X1C with the 0.2mm nozzle, 0.06mm layer height and PLA material.
 
 The third prototype was the first to actually click! Also, ejecitng the switch is easy using a standard switch puller.
 
-![Model](https://github.com/0xlillith/Viper/blob/main/img/4.png)
+![Model](https://github.com/0xlillith/Viper/blob/main/img/4.jpg)
 
 
