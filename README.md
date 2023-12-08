@@ -32,7 +32,7 @@ I've made some of the measurements bigger to factor in printing tolerances. Some
 
 I'm really surprised of the precision this thing can print with. I'm using a Bambulab X1C with the 0.2mm nozzle, 0.06mm layer height and PLA material.
 
-The third prototype was the first to actually click! Also, ejecitng the switch is easy using a standard switch puller.
+The third prototype was the first one to actually click! Also, ejecitng the switch is easy using a standard switch puller.
 
 ![Model](https://github.com/0xlillith/Viper/blob/main/img/4.jpg)
 
