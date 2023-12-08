@@ -18,7 +18,22 @@ I have an idea: design a 3D printable plate as smaller as posible on which I can
 
 I think I can fit it with enough precision that the switches won't fall. As I don't really want to design a PCB at this time, I think this will be my first take on a hand-wired keyboard too.
 
-So, I've been measuring a Kailh choc v1 with a caliper and translated dimensions to a Fusion360 sketch. I've made some of the measurements bigger to factor in printing tolerances. Some quick prototyping really helps in this.
+So, I've been measuring a Kailh choc v1 with a caliper and translated dimensions to a Fusion360 sketch. 
 
 ![Model](https://github.com/0xlillith/Viper/blob/main/img/1.png)
+
+Also made some holes so the keycap's clip can actually... clip. And extruded it all to form some kind of switch socket.
+
+![Model](https://github.com/0xlillith/Viper/blob/main/img/2.png)
+
+I've made some of the measurements bigger to factor in printing tolerances. Some quick prototyping really helps in this.
+
+![Model](https://github.com/0xlillith/Viper/blob/main/img/3.png)
+
+I'm really surprised of the precision this thing can print with. I'm using a Bambulab X1C with the 0.2mm nozzle, 0.06mm layer height and PLA material.
+
+The third prototype was the first to actually click! Also, ejecitng the switch is easy using a standard switch puller.
+
+![Model](https://github.com/0xlillith/Viper/blob/main/img/4.png)
+
 
