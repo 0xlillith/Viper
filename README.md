@@ -16,6 +16,8 @@ Some characteristics:
 # Designing the keyboard
 Well, I just finally got my 3D printer. It's been a long time wanting one, but better late than never. I've been printing the usual benchy and prebuilt goodies for a week and now the tinkering itch has hit me. I think it's time to start designing a keyboard for this thing, as I think its size will be one of the main limitants of the general size of the device.
 
+## Keyboard Plate
+
 I have an idea: design a 3D printable plate as smaller as posible on which I can put Kailh Choc v1 switches. Standard kailh keycaps are a bit bigger than the switches, I'll take a look at that later.
 
 I think I can fit it with enough precision that the switches won't fall. As I don't really want to design a PCB at this time, I think this will be my first take on a hand-wired keyboard too.
@@ -46,5 +48,10 @@ Fits very well!
 
 ![Model](https://github.com/0xlillith/Viper/blob/main/img/6.jpg)
 
+## Keycaps
+
+So, I wanted to try and print my own keycaps. I spent an afternoon smashing all buttons at once in front of fusion and some crazy designs came out. At the end, tho, I decided in favor of a more generic spherical profile, similar to DSA but a lot smaller and slim. I spent the next morning playing with the printer and got something similar to a doubleshot keycap... I will call this profile the DoubleHot.
+
 
 Pending thing is modifiying this to fit some (yet to be found) compatible Mill-Max sockets to where the copper legs are.
+
