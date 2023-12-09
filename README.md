@@ -48,10 +48,12 @@ Fits very well!
 
 ![Model](https://github.com/0xlillith/Viper/blob/main/img/6.jpg)
 
+Pending thing is modifiying this to fit some (yet to be found) compatible Mill-Max sockets to where the copper legs are.
+
 ## Keycaps
 
 So, I wanted to try and print my own keycaps. I spent an afternoon smashing all buttons at once in front of fusion and some crazy designs came out. At the end, tho, I decided in favor of a more generic spherical profile, similar to DSA but a lot smaller and slim. I spent the next morning playing with the printer and got something similar to a doubleshot keycap... I will call this profile the DoubleHot.
 
 
-Pending thing is modifiying this to fit some (yet to be found) compatible Mill-Max sockets to where the copper legs are.
+
 
