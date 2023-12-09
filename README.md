@@ -54,6 +54,8 @@ Pending thing is modifiying this to fit some (yet to be found) compatible Mill-M
 
 So, I wanted to try and print my own keycaps. I spent an afternoon smashing all buttons at once in front of fusion and some crazy designs came out. At the end, tho, I decided in favor of a more generic spherical profile, similar to DSA but a lot smaller and slim. I spent the next morning playing with the printer and got something similar to a doubleshot keycap... I will call this profile the DoubleHot.
 
+All this testing was done using grey PLA, next thing is to print this in dual color ABS and then try to acetone-smooth it.
+
 
 
 
