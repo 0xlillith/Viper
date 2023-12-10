@@ -56,6 +56,9 @@ So, I wanted to try and print my own keycaps. I spent an afternoon smashing all 
 
 All this testing was done using grey PLA, next thing is to print this in dual color ABS and then try to acetone-smooth it.
 
+Turns out the ABS filmanent I got (official Bammbu's) has low Styrene content and this has a side effect of it not being suitable to acetone smoothing. All my testings where failed. Also, apparently my precision printing ABS was worse than with PLA so... back to PLA!.
+I've also been testing diverse fonts and decided to use Routed Gothic for a classy look.
+
 
 
 
