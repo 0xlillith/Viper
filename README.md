@@ -71,6 +71,10 @@ Current best keycap printing settings:
 - Sparse infill 40% rectilinear.
 - Print in vertical, 90º. Way better than horizontal, safer than 45º.
 
+Post-Processing:
+- Currently, no sanding. No acetone.
+- Just finishing with some lacquer. I like Montana Colors Acrylic - Matte.
+
 # Mouse
 Want to try an integrated mini trackball.
 
