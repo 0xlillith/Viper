@@ -61,6 +61,16 @@ All this testing was done using grey PLA, next thing is to print this in dual co
 Turns out the ABS filmanent I got (official Bammbu's) has low Styrene content and this has a side effect of it not being suitable to acetone smoothing. All my testings where failed. Also, apparently my precision printing ABS was worse than with PLA so... back to PLA!.
 I've also been testing diverse fonts and decided to use Routed Gothic for a classy look.
 
+Current best keycap printing settings:
+- PLA
+- Cold Plate
+- 0,2 nozzle
+- 0,06 layer height
+- Support yes, normal, auto, snug.
+- Print Sequence: By Object.
+- Sparse infill 40% rectilinear.
+- Print in vertical, 90º. Way better than horizontal, safer than 45º.
+
 # Mouse
 Want to try an integrated mini trackball.
 
