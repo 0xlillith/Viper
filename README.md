@@ -75,6 +75,9 @@ Idea is to mount one screen over the other, and make them stack when closed.
 # Power
 I think a stack of generic rechargeable batteries is ideal.
 
+# Internal USB
+Gotta investigate some USB hats.
+
 # Chassis
 3D Printed, I suppose polyamide or polycarbonate are firm candidates, but i've never used them for now.
 
