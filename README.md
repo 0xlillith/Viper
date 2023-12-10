@@ -68,9 +68,8 @@ Want to try an integrated mini trackball.
 Just got the Raspberry Pi 5! Installed the official cooler and the RTC battery, a 128GB SD and installed Kali to do some testing with it. Everything seems snappy and fine.
 
 # Screen
-Got 2 ultrawide 8" from Taobao, with MIPI connection plus an mHDMI board. I intend to connect both of them to the RPI using MIPI flex cables. Just discovered an adapter cable is needed.
-
-Idea is to mount one screen over the other, and make them stack when closed.
+Got 2 ultrawide 8" from Taobao, with MIPI connection plus an mHDMI board. Idea is to mount one screen over the other, and make them stack when closed.
+I intend to connect both of them to the RPI using MIPI flex cables. Just discovered an adapter cable is needed. RPI5 has 2 4-rail connectors, each of them can be connected to a camera or a screen. This connectors use mini-FPC format, 22 lanes and 0,5mm wide. There are adaptor cables to connect them to the standard 15 lanes and 1mm wide.
 
 # Power
 I think a stack of generic rechargeable batteries is ideal.
