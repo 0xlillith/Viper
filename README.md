@@ -50,6 +50,8 @@ Fits very well!
 
 Pending thing is modifiying this to fit some (yet to be found) compatible Mill-Max sockets to where the copper legs are.
 
+UPDATE: I'm kinda deciding against hand-wired now, probably  wiser to design a PCB and send it to pcbway.
+
 ## Keycaps
 
 So, I wanted to try and print my own keycaps. I spent an afternoon smashing all buttons at once in front of fusion and some crazy designs came out. At the end, tho, I decided in favor of a more generic spherical profile, similar to DSA but a lot smaller and slim. I spent the next morning playing with the printer and got something similar to a doubleshot keycap... I will call this profile the DoubleHot.
@@ -59,6 +61,24 @@ All this testing was done using grey PLA, next thing is to print this in dual co
 Turns out the ABS filmanent I got (official Bammbu's) has low Styrene content and this has a side effect of it not being suitable to acetone smoothing. All my testings where failed. Also, apparently my precision printing ABS was worse than with PLA so... back to PLA!.
 I've also been testing diverse fonts and decided to use Routed Gothic for a classy look.
 
+# Mouse
+Want to try an integrated mini trackball.
 
+# SBC
+Just got the Raspberry Pi 5! Installed the official cooler and the RTC battery, a 128GB SD and installed Kali to do some testing with it. Everything seems snappy and fine.
+
+# Screen
+Got 2 ultrawide 8" from Taobao, with MIPI connection plus an mHDMI board. I intend to connect both of them to the RPI using MIPI flex cables. Just discovered an adapter cable is needed.
+
+Idea is to mount one screen over the other, and make them stack when closed.
+
+# Power
+I think a stack of generic rechargeable batteries is ideal.
+
+# Chassis
+3D Printed, I suppose polyamide or polycarbonate are firm candidates, but i've never used them for now.
+
+# SDR
+An integrated HackRF won't probably fit, it's too big.
 
 
