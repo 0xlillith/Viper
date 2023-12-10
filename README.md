@@ -73,6 +73,7 @@ Current best keycap printing settings:
 
 Post-Processing:
 - Currently, no sanding. No acetone.
+- Glue: Loctite.
 - Just finishing with some lacquer. I like Montana Colors Acrylic - Matte.
 
 # Mouse
